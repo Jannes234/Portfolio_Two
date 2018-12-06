@@ -3,8 +3,6 @@ Linux for embedded Objects 1 Portfolio 2
 
 #--------------------------
 # Group 25
-# Jannes Helck
-# Balazs Megyeri
 #--------------------------
 
 #--------------------------
